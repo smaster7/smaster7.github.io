@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
+title: Publications
 sidebar_link: true
-sidebar_sort_order: 3
+sidebar_sort_order: 2
 ---
 
 <p class="message">
