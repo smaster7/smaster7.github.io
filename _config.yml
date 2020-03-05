@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Sangseon Lee
 tagline:          'A Jekyll theme'
-description:      'Ph. D. of Computer Science & Engineering.'
+description:      'Ph.D. In Computer Science & Engineering.'
 url:              https://smaster7.github.io
 baseurl:          /
                   # the optional subpath of your site, e.g. "/blog"
