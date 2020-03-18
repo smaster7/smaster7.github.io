@@ -5,7 +5,7 @@ sidebar_link: true
 sidebar_sort_order: 2
 ---
 
-## International Journals (\*: Equal contributors)
+## International Journals
 - <strong>Lee S</strong>, Lim S, Lee T, Sung I, Kim S. Cancer subtype classification and modeling by pathway attention and propagation. <em>Bioinformatics</em>, accepted.
 - Lim S, <strong>Lee S</strong>, Jung I, Rhee S, Kim S. Comprehensive and critical evaluation of individualized pathway activity measurement tools on pan-cancer data. <em>Briefings in Bioinformatics</em>, 2020 Jan; 21(1):36-46.
 - Hur B, Kang D, <strong>Lee S</strong>, Moon JH, Lee G, Kim S. Venn-diaNet: Venn diagram based network propagation analysis framework for computing multiple biological experiments. <em>BMC Bioinformatics</em>, 2019 Dec 27; 20(23):1-12.
@@ -28,7 +28,7 @@ sidebar_sort_order: 2
 - Moon JH, Lim S, Jo K, <strong>Lee S</strong>, Seo S, Kim S, PINTnet: construction of condition-specic pathway interaction network by computing shortest paths on weighted PPI. <em>15<sup>th</sup> Asia Pacific Bioinformatics Conference (APBC) 2017</em>, Jan 16-18, Shenzhen, China.
 - Chae H, <strong>Lee S</strong>, Nephew KP, Kim S, Subtype-specific CpG island shore methylation and mutation patterns in 30 breast cancer cell lines. <em>27<sup>th</sup> International Conference on Genome Informatics (GIW) 2016</em>, Oct 3-5, Shanghai, China.
 
-## In Progress
+## In Progress (\*: Equal contributors)
 - Kang M\*, <strong>Lee S\*</strong>, Lee D, Kim S. Learning Cell-Type-Specific Gene Regulation Mechanisms by Multi-Attention Based Deep Learning with Regulatory Latent Space. In preparation for <em>Frontiers in Genetics</em>.
 - Moon JH, <strong>Lee S</strong>, Hur B, Kim S. MLDEG: A network-based ensemble model to identify differentially expressed genes consistently. In preparation for <em>IEEE/ACM Transactions on Computational Biology and Bioinformatics.
 - Lee T, <strong>Lee S</strong>, Kang M, Sun Kim. Simultaneous Modelling of Hierarchy in GPCR Proteins with Deep Learning in a Single Metric Space. In preparation for <em>European Conference on Computational Biology (ECCB) 2020</em>.
