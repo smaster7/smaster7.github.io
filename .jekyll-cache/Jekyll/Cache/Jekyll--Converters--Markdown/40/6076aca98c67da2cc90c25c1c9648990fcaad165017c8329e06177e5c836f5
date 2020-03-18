@@ -1,0 +1,38 @@
+I"<!--
+<p class="message">
+  Sangseon Lee (이상선)
+</p>
+-->
+<h2 id="sangseon-lee-이상선">Sangseon Lee (이상선)</h2>
+<p>Postdoctoral Fellow at<br />
+Bioinformatics Institute, Seoul National University<br />
+<br />
+1 Gwanack-ro, Gwanack-gu, Seoul, 08826<br />
+Phone: +82-2-880-2860<br />
+Mail: sangseon486[at]snu[dot]ac[dot]kr</p>
+
+<p><br /></p>
+
+<p><a href="files/Sangseon_Lee_CV.pdf" download=""> Curriculum Vitae </a></p>
+
+<p><br />
+<br /></p>
+
+<h4 id="research-interests">Research Interests</h4>
+<p><code class="highlighter-rouge">Bioinformatics</code> <code class="highlighter-rouge">Machine Learning</code> <code class="highlighter-rouge">Deep Learning</code>
+<br />
+<code class="highlighter-rouge">Pathway analysis</code> <code class="highlighter-rouge">Information theory</code>
+<br />
+<br />
+I’m currently an postdoctoral fellow at Bioinformatics Institute, Seoul National University.
+I received a Ph.D. degree in Computer Science &amp; Engineering from Seoul National University in 2020.
+My research area focuses on developing machine learning algorithms and deep learning models for analyzing high throughput next generation sequencing data.
+The major goal of my works is an interpretation of biological mechanisms of living organisms.
+I has been involved in several bioinformatics tool development projects such as
+an interpretable deep learning model, subpath mining, sequence similarity measurement, and multi-omics integration.</p>
+
+<!--
+To make pages show up in the sidebar, add `sidebar_link: true` to the front
+matter.
+-->
+:ET
