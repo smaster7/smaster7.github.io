@@ -1,0 +1,35 @@
+I"9<h2 id="international-journals--equal-contributors">International Journals (*: Equal contributors)</h2>
+<ul>
+  <li>Kang M*, <strong>Lee S*</strong>, Lee D, Kim S. Learning Cell-Type-Specific Gene Regulation Mechanisms by Multi-Attention Based Deep Learning with Regulatory Latent Space. In preparation for <em>Frontiers in Genetics</em>.</li>
+  <li>Moon JH, Lee S, Hur B, Kim S. MLDEG: A network-based ensemble model to identify differentially expressed genes consistently. In preparation for IEEE/ACM Transactions on Computational Biology and Bioinformatics.</li>
+  <li>Lee T, Lee S, Kang M, Sun Kim. Simultaneous Modelling of Hierarchy in GPCR Proteins with Deep Learning in a Single Metric Space. In preparation for European Conference on Computational Biology (ECCB) 2020.</li>
+  <li>Kim MS, Lee S, Lim S, Lee DY, Kim S. AttentiveCancer: an attention framework using subnetwork level representation of transcriptome for predicting lymph node metastasis in early oral cancer. In preparation for European Conference on Computational Biology (ECCB) 2020.</li>
+  <li>Lee S, Lim S, Lee T, Sung I, Kim S. Cancer subtype classification and modeling by pathway attention and propagation. Bioinformatics, accepted.</li>
+  <li>Lim S, Lee S, Jung I, Rhee S, Kim S. Comprehensive and critical evaluation of individualized pathway activity measurement tools on pan-cancer data. Briefings in Bioinformatics, 2020 Jan; 21(1):36-46.</li>
+  <li>Hur B, Kang D, Lee S, Moon JH, Lee G, Kim S. Venn-diaNet: Venn diagram based network propagation analysis framework for computing multiple biological experiments. BMC Bioinformatics, 2019 Dec 27; 20(23):1-12.</li>
+  <li>Kang D, Ahn H, Lee S, Lee CJ, Hur J, Jung W, Kim S. StressGenePred: a twin prediction model architecture for classifying the stress types of samples and discovering stress-related genes in Arabidopsis. BMC Genomics, 2019 Dec 20; 20(11):949.</li>
+  <li>Kim MS, Lee S, Lim S, Kim S. SpliceHetero: An information theoretic approach for measuring spliceomic intratumor heterogeneity from bulk tumor RNA-seq. Plos ONE, 2019 Oct 23; 14(10).</li>
+  <li>
+    <p>Lee S, Lee T, Noh YK, Kim S. Ranked k-spectrum kernel for comparative and evolutionary comparison of exons, introns, and CpG islands. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2019 Sep 3, in press.</p>
+  </li>
+  <li>
+    <p>Lee DH. Lee S, Kim S. PRISM: Methylation Pattern-based, Reference-free Inference of Subclonal Makeup. Bioinformatics, 2019 Jul 5; 35(14):i520-i529.</p>
+  </li>
+  <li>
+    <p>Lee CJ, Kang D, Lee S, Lee S, Kang J, Kim S. In silico experiment system for testing hypothesis on gene functions using three condition specific biological networks. Methods, 2018 May 25; 145:10-15.</p>
+  </li>
+  <li>
+    <p>Lee S, Park Y, Kim S. MIDAS: Mining differentially activated subpaths of KEGG pathways from multi-class RNA-seq data. Methods, 2017 Jul 15; 124:13-24.</p>
+  </li>
+  <li>
+    <p>Moon JH, Lim S, Jo K, Lee S, Seo S, Kim S, PINTnet: construction of condition-specic pathway interaction network by computing shortest paths on weighted PPI. BMC Systems Biology, 2017 Mar 14; 11(2):15.</p>
+  </li>
+  <li>
+    <p>Chae H, Lee S, Nephew KP, Kim S, Subtype-specific CpG island shore methylation and mutation patterns in 30 breast cancer cell lines. BMC Systems Biology, 2016 Dec 23; 10(4):116.</p>
+  </li>
+  <li>
+    <p>Chae H, Lee S, Seo S, Jung D, Chang H, Nephew KP, Kim S. BioVLAB-mCpG-SNP-EXPRESS: A system for multi-level and multi-perspective analysis and exploration of DNA methylation, sequence variation (SNPs), and gene expression from multi-omics data. Methods, 2016 Jul 28; 111:64-71.</p>
+  </li>
+  <li>Jeong HM, Lee S, Chae H, Kim R, Kwon MJ, Oh E, Choi YL, Kim S, Shin YK. Efficiency of methylated DNA immunoprecipitation bisulphite sequencing for whole-genome DNA methylation analysis. Epigenomics, 2016 Jun 8; 8(8):1061-1077.</li>
+</ul>
+:ET
