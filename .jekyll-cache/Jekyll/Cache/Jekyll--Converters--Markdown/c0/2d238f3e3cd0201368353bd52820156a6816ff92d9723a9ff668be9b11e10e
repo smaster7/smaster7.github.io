@@ -1,0 +1,26 @@
+I"+<blockquote>
+  <h2 id="epigenetic-gene-regulation-model">Epigenetic Gene Regulation Model</h2>
+  <p><img src="assets/img/CellLa.jpg" style="width:800px; height:500px;" />
+<!--
+![placeholder](/assets/img/CellLa.jpg/800x400 "CellLa")
+-->
+The Multi-Attention based Deep Learning model aims to learn regulatory latent space of epigenetic/transcriptional markers such as histone modifications, methylations, and transcription factors.</p>
+  <ul>
+    <li>Embedding different epigenetic/transcriptional markers into a regulatory latent space using various model.<br />
+*b
+*c</li>
+  </ul>
+</blockquote>
+
+<blockquote>
+  <h2 id="pathway-attention-model">Pathway Attention Model</h2>
+</blockquote>
+
+<blockquote>
+  <h2 id="rkss-kernel">RKSS Kernel</h2>
+</blockquote>
+
+<blockquote>
+  <h2 id="midas">MIDAS</h2>
+</blockquote>
+:ET
