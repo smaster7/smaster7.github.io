@@ -1,0 +1,39 @@
+I"–<blockquote>
+  <h2 id="epigenetic-gene-regulation-model">Epigenetic Gene Regulation Model</h2>
+  <p><img src="assets/img/CellLa.jpg" style="width:800px; height:400px;" />
+<!--
+![placeholder](/assets/img/CellLa.jpg/800x400 "CellLa")
+-->
+The Multi-Attention based Deep Learning model aims to learn regulatory latent space of epigenetic/transcriptional markers such as histone modifications, methylations, and transcription factors.</p>
+  <ul>
+    <li>Embedding different epigenetic/transcriptional markers into a regulatory latent space using marker-specific architectures such as CNN &amp; RNN with attention (histone modification), RNN with attention (methylation), self-attention network (transcription factor).</li>
+    <li>Integrating each latent feature by multi-attention block to interpret relationships between multiple regulatory features.</li>
+    <li>In experiments with 18 cell lines, the proposed model predicted the gene expression level more accurately than the state-of-the-art model.</li>
+    <li>Reveal the cell-type-specific gene regulation mechanisms and enriched genes in terms of their functions and epigenetic regulation.
+<br />
+[Publication]
+abc</li>
+  </ul>
+</blockquote>
+
+<blockquote>
+  <h2 id="pathway-attention-model">Pathway Attention Model</h2>
+  <p><img src="assets/img/GCN_MAE.png" style="width:800px; height:300px;" />
+The pathway attention model is an explainable deep learning model for predicting cancer subtyes using gene expression data and biological pathways.</p>
+  <ul>
+    <li>Capturing localized gene expression patterns in pathways by graph convolutional networks (GCNs)</li>
+    <li>Reproducing biological mechanisms by combining results of GCN with multi-attention based ensemble</li>
+    <li>Identifying transcription factors as regulator of pathways to elucidate subtype-specific biological functions from network propagation algorithm</li>
+  </ul>
+</blockquote>
+
+<blockquote>
+  <h2 id="rkss-kernel">RKSS Kernel</h2>
+  <p><img src="assets/img/RKSS_kernel.png" style="width:800px; height:400px;" /></p>
+</blockquote>
+
+<blockquote>
+  <h2 id="midas">MIDAS</h2>
+  <p><img src="assets/img/MIDAS.png" style="width:800px; height:400px;" /></p>
+</blockquote>
+:ET
