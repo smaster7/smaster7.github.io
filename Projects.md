@@ -7,10 +7,11 @@ sidebar_sort_order: 3
 
 
 > ## Epigenetic Gene Regulation Model
-<img src="assets/img/CellLa.jpg" style="width:800px; height:500px;" />
 <!--
+<img src="assets/img/CellLa.jpg" style="width:800px; height:500px;" />
 ![placeholder](/assets/img/CellLa.jpg/800x400 "CellLa")
 -->
+[ ![](/assets/img/CellLa.jpg) ](/assets/img/CellLa.jpg)
 The Multi-Attention based Deep Learning model aims to learn regulatory latent space of epigenetic/transcriptional markers such as histone modifications, methylations, and transcription factors.
 * Embedding different epigenetic/transcriptional markers into a regulatory latent space using marker-specific architectures such as CNN & RNN with attention (histone modification), RNN with attention (methylation), self-attention network (transcription factor).
 * Integrating each latent feature by multi-attention block to interpret relationships between multiple regulatory features.
