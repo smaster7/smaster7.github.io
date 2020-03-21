@@ -20,7 +20,7 @@ The Multi-Attention based Deep Learning model aims to learn regulatory latent sp
 * Reveal the cell-type-specific gene regulation mechanisms and enriched genes in terms of their functions and epigenetic regulation.
 
 > ## Pathway Attention Model
-<img src="assets/img/GCN_MAE.png" style="display: block; margin-left: auto; margin-right: auto; width:1000px; height:400px;" />
+<img src="assets/img/GCN_MAE.png" style="display: block; margin-left: auto; margin-right: auto; width:1000px; height:450px;" />
 The pathway attention model is an explainable deep learning model for predicting cancer subtypes using gene expression data and biological pathways.
 * Capturing localized gene expression patterns in pathways by graph convolutional networks (GCNs)
 * Reproducing biological mechanisms by combining results of GCN with multi-attention based ensemble
@@ -28,7 +28,7 @@ The pathway attention model is an explainable deep learning model for predicting
 
 
 > ## RKSS Kernel
-<img src="assets/img/RKSS_kernel.png" style="display: block; margin-left: auto; margin-right: auto; width:900px; height:400px;" />
+<img src="assets/img/RKSS_kernel.png" style="display: block; margin-left: auto; margin-right: auto; width:900px; height:450px;" />
 RKSS kernel aims to measure similarity of DNA sequences in terms of evolutionary distance.
 * Extension of the k-spectrum string kernel by utilizing two features for comparative and evolutionary sequence comparison
 * Building a common k-mers template "landmark" to mimic common ancestors and reduce features
