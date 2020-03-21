@@ -318,7 +318,7 @@ body { background-attachment: fixed; background-color: #202020; background-image
   .container > header { color: #313131; margin: 0; }
   .container > header h1, .container > header h2 { color: inherit; }
   .container > header h1:last-child, .container > header h2:last-child { margin-bottom: 0.5rem; }
-  .container > * { max-width: 38rem; padding: 0; } }
+  .container > * { max-width: 58rem; padding: 0; } }
 
 /* ----------------------------------------------------------- Sidebar links + nav ----------------------------------------------------------- */
 #sidebar a { color: #fff; }
@@ -761,7 +761,7 @@ body { background-attachment: fixed; background-color: #5a8ed6; background-image
   .container > header { color: #313131; margin: 0; }
   .container > header h1, .container > header h2 { color: inherit; }
   .container > header h1:last-child, .container > header h2:last-child { margin-bottom: 0.5rem; }
-  .container > * { max-width: 38rem; padding: 0; } }
+  .container > * { max-width: 58rem; padding: 0; } }
 
 /* ----------------------------------------------------------- Sidebar links + nav ----------------------------------------------------------- */
 #sidebar a { color: #fff; }
