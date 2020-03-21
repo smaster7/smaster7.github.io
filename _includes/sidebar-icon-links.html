@@ -20,6 +20,18 @@
   </a>
   {% endcomment %}
 
+  <a id="googlescholar-link"
+     class="icon" title="Google Scholar" aria-label="Google Scholar"
+     href="https://scholar.google.co.kr/citations?hl=en&user=abgnGj0AAAAJ">
+    {% include svg/googlescholar.svg %}
+  </a>
+
+  <a id="orcid-link"
+     class="icon" title="ORCID" aria-label="ORCID"
+     href="https://orcid.org/0000-0002-7398-9580">
+    {% include svg/orcid.svg %}
+  </a>
+
   {% comment %}
     Check if we have tag or search pages page active before linking to it.
   {% endcomment %}
@@ -33,14 +45,16 @@
     {% endif %}
   {% endfor %}
 
+  {% comment %}
   {% if tags_page %}
     <a id="tags-link"
        class="icon{% if page.url == '/tags' %} active{% endif %}"
        title="Tags" aria-label="Tags"
        href="{{ tags_page.url | relative_url }}">
-      {% include svg/tags.svg %}
+      {% include svg/search.svg %}
     </a>
   {% endif %}
+  {% endcomment %}
 
   {% if search_page %}
     <a id="search-link"

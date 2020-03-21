@@ -22,7 +22,7 @@ Mail: sangseon486[at]snu[dot]ac[dot]kr
 #### Research Interests
 `Bioinformatics` `Machine Learning` `Deep Learning`
 <br>
-`Pathway analysis` `Information theory`
+`Pathway Analysis` `Information Theory`
 \\
 \\
 I'm currently an postdoctoral fellow at Bioinformatics Institute, Seoul National University.
