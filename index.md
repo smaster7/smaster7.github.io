@@ -17,7 +17,7 @@ Bioinformatics Institute, Seoul National University\\
 Phone: +82-2-880-2860\\
 Mail: sangseon486[at]snu[dot]ac[dot]kr
 
-<a href="files/Sangseon_Lee_CV.pdf" download> Curriculum Vitae </a>
+<a href="files/Sangseon_Lee_CV.pdf" style="color:#ac4142" download> Curriculum Vitae </a>
 
 #### Research Interests
 `Bioinformatics` `Machine Learning` `Deep Learning`
