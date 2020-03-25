@@ -6,7 +6,7 @@ sidebar_sort_order: 2
 ---
 
 ## International Journals
-- <strong>Lee S</strong>, Lim S, Lee T, Sung I, Kim S. Cancer subtype classification and modeling by pathway attention and propagation. <em>Bioinformatics</em>, accepted.
+- [<strong>Lee S</strong>, Lim S, Lee T, Sung I, Kim S. Cancer subtype classification and modeling by pathway attention and propagation. <em>Bioinformatics</em>, accepted.](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa203/5811233)
 - [Lim S, <strong>Lee S</strong>, Jung I, Rhee S, Kim S. Comprehensive and critical evaluation of individualized pathway activity measurement tools on pan-cancer data. <em>Briefings in Bioinformatics</em>, 2020 Jan; 21(1):36-46.](https://academic.oup.com/bib/article/21/1/36/5181542)
 - [Hur B, Kang D, <strong>Lee S</strong>, Moon JH, Lee G, Kim S. Venn-diaNet: Venn diagram based network propagation analysis framework for computing multiple biological experiments. <em>BMC Bioinformatics</em>, 2019 Dec 27; 20(23):1-12.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3302-7)
 - [Kang D, Ahn H, <strong>Lee S</strong>, Lee CJ, Hur J, Jung W, Kim S. StressGenePred: a twin prediction model architecture for classifying the stress types of samples and discovering stress-related genes in Arabidopsis. <em>BMC Genomics</em>, 2019 Dec 20; 20(11):949.](https://link.springer.com/article/10.1186/s12864-019-6283-z)
