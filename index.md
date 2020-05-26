@@ -29,7 +29,7 @@ I'm currently a postdoctoral fellow at Bioinformatics Institute, Seoul National 
 I received a Ph.D. degree in Computer Science & Engineering from Seoul National University in 2020.
 My research area focuses on developing machine learning algorithms and deep learning models for analyzing high throughput next generation sequencing data.
 The major goal of my works is an interpretation of biological mechanisms of living organisms.
-I has been involved in several bioinformatics tool development projects such as
+I has involved in several bioinformatics-tool development projects such as
 an interpretable deep learning model, subpath mining, sequence similarity measurement, and multi-omics integration.
 
 
