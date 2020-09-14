@@ -5,8 +5,9 @@ sidebar_link: true
 sidebar_sort_order: 2
 ---
 
-## International Journals
-- [<strong>Lee S</strong>, Lim S, Lee T, Sung I, Kim S. Cancer subtype classification and modeling by pathway attention and propagation. <em>Bioinformatics</em>, accepted.](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa203/5811233)
+## International Journals (\*: Equal contributors)
+- [Kang M\*, <strong>Lee S\*</strong>, Lee D, Kim S. Learning Cell-Type-Specific Gene Regulation Mechanisms by Multi-Attention Based Deep Learning with Regulatory Latent Space. <em>Frontiers in Genetics</em>, 2020 Jul 16.](https://www.frontiersin.org/articles/10.3389/fgene.2020.00869/abstract)
+- [<strong>Lee S</strong>, Lim S, Lee T, Sung I, Kim S. Cancer subtype classification and modeling by pathway attention and propagation. <em>Bioinformatics</em>, 2020 May 24.](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa203/5811233)
 - [Lim S, <strong>Lee S</strong>, Jung I, Rhee S, Kim S. Comprehensive and critical evaluation of individualized pathway activity measurement tools on pan-cancer data. <em>Briefings in Bioinformatics</em>, 2020 Jan; 21(1):36-46.](https://academic.oup.com/bib/article/21/1/36/5181542)
 - [Hur B, Kang D, <strong>Lee S</strong>, Moon JH, Lee G, Kim S. Venn-diaNet: Venn diagram based network propagation analysis framework for computing multiple biological experiments. <em>BMC Bioinformatics</em>, 2019 Dec 27; 20(23):1-12.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3302-7)
 - [Kang D, Ahn H, <strong>Lee S</strong>, Lee CJ, Hur J, Jung W, Kim S. StressGenePred: a twin prediction model architecture for classifying the stress types of samples and discovering stress-related genes in Arabidopsis. <em>BMC Genomics</em>, 2019 Dec 20; 20(11):949.](https://link.springer.com/article/10.1186/s12864-019-6283-z)
@@ -28,8 +29,7 @@ sidebar_sort_order: 2
 - Moon JH, Lim S, Jo K, <strong>Lee S</strong>, Seo S, Kim S, PINTnet: construction of condition-specic pathway interaction network by computing shortest paths on weighted PPI. <em>15<sup>th</sup> Asia Pacific Bioinformatics Conference (APBC) 2017</em>, Jan 16-18, Shenzhen, China.
 - Chae H, <strong>Lee S</strong>, Nephew KP, Kim S, Subtype-specific CpG island shore methylation and mutation patterns in 30 breast cancer cell lines. <em>27<sup>th</sup> International Conference on Genome Informatics (GIW) 2016</em>, Oct 3-5, Shanghai, China.
 
-## In Progress (\*: Equal contributors)
-- Kang M\*, <strong>Lee S\*</strong>, Lee D, Kim S. Learning Cell-Type-Specific Gene Regulation Mechanisms by Multi-Attention Based Deep Learning with Regulatory Latent Space. In preparation for <em>Frontiers in Genetics</em>.
+## In Progress 
 - Moon JH, <strong>Lee S</strong>, Hur B, Kim S. MLDEG: A network-based ensemble model to identify differentially expressed genes consistently. In preparation for <em>IEEE/ACM Transactions on Computational Biology and Bioinformatics.
 - Lee T, <strong>Lee S</strong>, Kang M, Sun Kim. Simultaneous Modelling of Hierarchy in GPCR Proteins with Deep Learning in a Single Metric Space. In preparation for <em>European Conference on Computational Biology (ECCB) 2020</em>.
 - Kim MS, <strong>Lee S</strong>, Lim S, Lee DY, Kim S. AttentiveCancer: an attention framework using subnetwork level representation of transcriptome for predicting lymph node metastasis in early oral cancer. In preparation for <em>European Conference on Computational Biology (ECCB) 2020</em>.
