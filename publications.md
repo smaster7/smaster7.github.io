@@ -7,7 +7,7 @@ sidebar_sort_order: 2
 
 ## International Journals (\*: Equal contributors)
 - Sung I*, <strong>Lee S\*</strong>, Pak M, Shin Y, Kim S. AutoCoV: Learning the Spatial and Temporal Dynamics of COVID-19 Spread Patterns from Embedding Space by k-mer Based Deep Learning. <em>International Conference on Intelligent Biology and Medicine (ICIBM 2021)</em>, Under review.
-- Lee T, <strong>Lee S</strong>, Kang M, Sun Kim. Deep Hierarchical Embedding for Simultaneous Modeling of GPCR Proteins in a Unified Metric Space. <em>Scientific Reports</em>, Under review.
+- Lee T, <strong>Lee S</strong>, Kang M, Sun Kim. Deep Hierarchical Embedding for Simultaneous Modeling of GPCR Proteins in a Unified Metric Space. <em>Scientific Reports</em>, in revision.
 - Kim MS, <strong>Lee S</strong>, Lim S, Lee DY, Kim S. AttentiveCancer: an attention framework using subnetwork level representation of transcriptome for predicting lymph node metastasis in early oral cancer. <em>Bioinformatics</em>, Under review.
 - Kim I, <strong>Lee S</strong>, Kim Y, Namkoong H, Kim S. Probabilistic model for pathway-guided gene set selection. <em>ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB 2021)</em>, Under review.
 - Moon JH, <strong>Lee S</strong>, Hur B, Kim S. MLDEG: A network-based ensemble model to identify differentially expressed genes consistently. <em>IEEE/ACM Transactions on Computational Biology and Bioinformatics</em>, 2021 March; in press.
