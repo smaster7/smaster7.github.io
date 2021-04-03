@@ -11,7 +11,7 @@ sidebar_sort_order: 1
 -->
 ## Sangseon Lee (이상선)
 Postdoctoral Fellow at\\
-Bioinformatics Institute, Seoul National University\\
+BK21 FOUR Intelligence Computing, Seoul National University\\
 \\
 1 Gwanack-ro, Gwanack-gu, Seoul, 08826\\
 Phone: +82-2-880-2860\\
@@ -25,7 +25,7 @@ Mail: sangseon486[at]snu[dot]ac[dot]kr
 `Pathway Analysis` `Information Theory`
 \\
 \\
-I'm currently a postdoctoral fellow at Bioinformatics Institute, Seoul National University.
+I'm currently a postdoctoral fellow at BK21 FOUR Intelligence Computing, Seoul National University.
 I received a Ph.D. degree in Computer Science & Engineering from Seoul National University in 2020.
 My research area focuses on developing machine learning algorithms and deep learning models for analyzing high throughput next generation sequencing data.
 The major goal of my works is an interpretation of biological mechanisms of living organisms.
