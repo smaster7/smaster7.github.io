@@ -20,7 +20,7 @@ Mail: sangseon486[at]snu[dot]ac[dot]kr
 <a href="files/Sangseon_Lee_CV.pdf" style="color:#ac4142" download> Curriculum Vitae </a>
 
 #### Research Interests
-`Bioinformatics` `Machine Learning` `Deep Learning`
+`Bioinformatics`  `Deep Learning` `Graph Learning`
 <br>
 `Pathway Analysis` `Information Theory`
 \\
