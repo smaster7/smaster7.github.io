@@ -61,6 +61,7 @@ MIDAS determines condition specific subpaths, each of which has different activi
 -->
 
 > # Deep Learning models for interpreting biological data with prior knowledge
+
 ## Cancer subtype classification and modeling by pathway attention and propagation
 <a href="/assets/img/GCN_MAE_new.png" data-lightbox="image-1" data-title="Workflow of the explainable pathway GCN & attention model">
   <img src="/assets/img/GCN_MAE_new.png" style="display: block; margin-left: auto; margin-right: auto; width:1000px; height:450px;" />
@@ -69,6 +70,7 @@ MIDAS determines condition specific subpaths, each of which has different activi
 - Designing a pathway-based explainable deep learning model by graph convolutional network and attention mechanism
 - Predicting cancer subtypes using gene expression data and pathway information
 - [Paper accepted by <em>Bioinformatics</em> journal](https://academic.oup.com/bioinformatics/article/36/12/3818/5811233)
+  
 ## Learning Cell-Type-Specific Gene Regulation Mechanisms by Multi-Attention Based Deep Learning with Regulatory Latent Space
 <a href="assets/img/CellLa.png" data-lightbox="image-2" data-title="Workflow of the epigenetic gene regulation model">
   <img src="assets/img/CellLa.png" style="display: block; margin-left: auto; margin-right: auto; width:1000px; height:450px;" />
@@ -76,7 +78,8 @@ MIDAS determines condition specific subpaths, each of which has different activi
 
 - Designing multi-modal deep learning model for learning gene regulation mechanism
 - Elucidating epigenetic gene regulation mechanism by various attention layers
-- [Paper accepted by <em>Frontiers in Genetics</em> journal](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.00869/full) 
+- [Paper accepted by <em>Frontiers in Genetics</em> journal](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.00869/full)
+  
 ## Multi-layered Knowledge Graph Neural Network Reveals Pathway-level Agreement of Three Breast Cancer Multi-gene Assays
 <a href="/assets/img/AssayKG.png" data-lightbox="image-3" data-title="Workflow of the multi-layered knowledge graph neural network for breast cancer multi-gene assay">
   <img src="/assets/img/AssayKG.png" style="display: block; margin-left: auto; margin-right: auto; width:1000px; height:450px;" />
@@ -88,6 +91,7 @@ MIDAS determines condition specific subpaths, each of which has different activi
 
 
 > # AI with graph structured data in biomedical domains
+
 ## Sparse Structure Learning via Graph Neural Networks for Inductive Document Classification
 <a href="/assets/img/SSL_document.png" data-lightbox="image-4" data-title="Workflow of spare structure learning of document">
   <img src="/assets/img/SSL_document.png" style="display: block; margin-left: auto; margin-right: auto; width:1000px; height:450px;" />
@@ -107,7 +111,8 @@ MIDAS determines condition specific subpaths, each of which has different activi
 - [Paper accepted by <em>Nature Communications</em> journal](https://www.nature.com/articles/s41467-023-39301-y)
 
 
-> # Cheminformatics and AI in Drug discovery 
+> # Cheminformatics and AI in Drug discovery
+
 ## Multi-Task Informed Learnable Prototypes on Few Shot learning for Molecular Property Prediction
 <a href="/assets/img/MTLP.png" data-lightbox="image-6" data-title="Workflow of MTLP">
   <img src="/assets/img/MTLP.png" style="display: block; margin-left: auto; margin-right: auto; width:1000px; height:450px;" />
