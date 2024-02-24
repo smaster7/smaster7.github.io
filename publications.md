@@ -7,10 +7,10 @@ sidebar_sort_order: 2
 ## In Review (\*: Equal contributors)
 - [1] <strong>Lee S</strong>, Piao Y, Lee D, Kim S. Multi-Task Informed Learnable Prototypes on Few Shot learning for Molecular Property Prediction
 - [2] <strong>Lee S*</strong>, Park J\*, Piao Y, Lee D, Lee D, Kim S. Multi-layered Knowledge Graph Neural Network Reveals Pathway-level Agreement of Three Breast Cancer Multi-gene Assays
-- [3] Cho C, <strong>Lee S*</strong>, Piao Y, Bang D, Kim S. ChemAP: Chemical Structure-Based Deep Learning Model via Knowledge Distillation for Predicting Drug Approval before Clinical Trial Phase
-- [4] Sung I, <strong>Lee S*</strong>, Bang D, Yi J, Kim S. MDTR: A Knowledge-Guided Interpretable Representation for Quantifying Liver Toxicity at Transcriptomic Level
-- [5] Shin Y, <strong>Lee S*</strong>, Pak M, Cho C, Kim S. DrugPT-Net: Drug Perturbation Guided Visible Neural Network for Drug Response Prediction at Transcriptomic Level
-- [6] Lu Y, <strong>Lee S*</strong>, Park S, Yi J, Cho C, Lim S, Kang S, Kim S. An ensemble strategy to improve generalization power of deep learning models for DTI prediction
+- [3] Cho C*, <strong>Lee S*</strong>, Piao Y, Bang D, Kim S. ChemAP: Chemical Structure-Based Deep Learning Model via Knowledge Distillation for Predicting Drug Approval before Clinical Trial Phase
+- [4] Sung I*, <strong>Lee S*</strong>, Bang D, Yi J, Kim S. MDTR: A Knowledge-Guided Interpretable Representation for Quantifying Liver Toxicity at Transcriptomic Level
+- [5] Shin Y*, <strong>Lee S*</strong>, Pak M, Cho C, Kim S. DrugPT-Net: Drug Perturbation Guided Visible Neural Network for Drug Response Prediction at Transcriptomic Level
+- [6] Lu Y*, <strong>Lee S*</strong>, Park S, Yi J, Cho C, Lim S, Kang S, Kim S. An ensemble strategy to improve generalization power of deep learning models for DTI prediction
 - [7] Piao Y, <strong>Lee S</strong>, Lu Y, Kim S. Improving Out-of-Distribution Generalization in Graphs vis Hierarchical Semantic Environments
 - [8] Lu Y, Piao Y, <strong>Lee S</strong>, Kim S. Context-Aware Hierarchical Fusion for Drug Relational Learning
 
