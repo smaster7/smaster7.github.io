@@ -69,7 +69,6 @@ MIDAS determines condition specific subpaths, each of which has different activi
 - Designing a pathway-based explainable deep learning model by graph convolutional network and attention mechanism
 - Predicting cancer subtypes using gene expression data and pathway information
 - [Paper accepted by <em>Bioinformatics</em> journal](https://academic.oup.com/bioinformatics/article/36/12/3818/5811233)
-
 ## Learning Cell-Type-Specific Gene Regulation Mechanisms by Multi-Attention Based Deep Learning with Regulatory Latent Space
 <a href="assets/img/CellLa.png" data-lightbox="image-2" data-title="Workflow of the epigenetic gene regulation model">
   <img src="assets/img/CellLa.png" style="display: block; margin-left: auto; margin-right: auto; width:1000px; height:450px;" />
@@ -78,7 +77,6 @@ MIDAS determines condition specific subpaths, each of which has different activi
 - Designing multi-modal deep learning model for learning gene regulation mechanism
 - Elucidating epigenetic gene regulation mechanism by various attention layers
 - [Paper accepted by <em>Frontiers in Genetics</em> journal](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.00869/full) 
-
 ## Multi-layered Knowledge Graph Neural Network Reveals Pathway-level Agreement of Three Breast Cancer Multi-gene Assays
 <a href="/assets/img/AssayKG.png" data-lightbox="image-3" data-title="Workflow of the multi-layered knowledge graph neural network for breast cancer multi-gene assay">
   <img src="/assets/img/AssayKG.png" style="display: block; margin-left: auto; margin-right: auto; width:1000px; height:450px;" />
