@@ -60,7 +60,7 @@ MIDAS determines condition specific subpaths, each of which has different activi
 * Using a greedy subpath extension method with exponentially increasing criteria to mining complex interaction of genes
 -->
 
-# Deep Learning models for interpreting biological data with prior knowledge
+> # Deep Learning models for interpreting biological data with prior knowledge
 
 ## Cancer subtype classification and modeling by pathway attention and propagation
 <a href="/assets/img/GCN_MAE_new.png" data-lightbox="image-1" data-title="Workflow of the explainable pathway GCN & attention model">
@@ -89,7 +89,7 @@ MIDAS determines condition specific subpaths, each of which has different activi
 - Identification of shared regulatory mechanisms of three breast cancer multi-gene assays 
 - Under review in SCIE journal
 
-$~$
+<br/><br/>
 
 > # AI with graph structured data in biomedical domains
 
@@ -111,7 +111,7 @@ $~$
 - Designing a semantic information-guided random walk to generate embeddings of drugs and disease in a unified embedding space
 - [Paper accepted by <em>Nature Communications</em> journal](https://www.nature.com/articles/s41467-023-39301-y)
 
-$~$
+<br/><br/>
 
 > # Cheminformatics and AI in Drug discovery
 
