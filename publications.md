@@ -55,7 +55,7 @@ sidebar_sort_order: 2
 - [1] Pak M, Jeong D, Moon JH, Ann H, Hur B, <strong>Lee S</strong>, Kim S. Network Propagation for the Analysis of Multi-Omics Data. Recent Advances in Biological Network Analysis (pp. 185-217). 2021
 
 ## Domestic Journal (*: equal contributors)
-- [1] 박민우, 이상선, 성인영, 신윤열, 정인욱, 김선. 밀도기반 군집화와 딥러닝 모델을 이용한 COVID-19 바이러스 전장 유전체 임베딩 전략. Journal of KIISE \[From 2021 한국컴퓨터종합학술대회\] 제49권 제4호, pp.261-270. 2022.
+- [1] 박민우, <strong>이상선</strong>, 성인영, 신윤열, 정인욱, 김선. 밀도기반 군집화와 딥러닝 모델을 이용한 COVID-19 바이러스 전장 유전체 임베딩 전략. Journal of KIISE \[From 2021 한국컴퓨터종합학술대회\] 제49권 제4호, pp.261-270. 2022.
 - [2] 박은화*, <strong>이상선*</strong>, 김선. 신약개발과 맞춤의학을 위한 그래프 학습 기술. 한국정보과학회지 제 40권 제 3호, pp.30-40. 2022.
 - [3] 박은화, <strong>이상선</strong>, 김선. 헬스케어 예측을 위한 전자 건강 기록 기반 그래프 컨볼루션 모델. 한국정보과학회 2020 한국컴퓨터종합학술대회 논문집, Vol.2020, pp.569-571. Jul., 2020.
 - [4] 강동원, 안홍렬, <strong>이상선</strong>, 정우석, 김선. 시계열 유전자 발현 데이터의 스트레스 특이 반응 유전자 검출 및 스트레스 예측 알고리즘 개발. 한국정보과학회 2018 한국컴퓨터종합학술대회 논문집, Vol.2018, pp.1063-1065. Jun., 2018.
